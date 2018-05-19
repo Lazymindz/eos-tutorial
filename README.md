@@ -3,7 +3,6 @@
 #### Notes
 - Based on eos-dawn-v3.0.0 but should also work on the latest release eos-dawn-v4.0.0
 - Instructions are compiled on Mac but are generic. If the paths are different, searching them on Google should help you guide
--
 
 #### Contents
 - [Installation](#installation)
@@ -158,3 +157,4 @@ Examples:
 - [EOS Wiki](https://github.com/EOSIO/eos/wiki)
 - [Understanding Smart Contracts](https://www.youtube.com/watch?v=EbWDHrm2ETY)
 - [Tic-Tac-Toe Steps breakdown](https://github.com/EOSIO/eos/wiki/Tutorial-Tic-Tac-Toe)
+- [TicTacToe contract code](https://github.com/Lazymindz/eos-sample-contracts/tree/master/tictactoe)
